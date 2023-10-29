@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/CalHacks2023/static/css/main.45943ac2.css",
-    "main.js": "/CalHacks2023/static/js/main.856b2bff.js",
+    "main.js": "/CalHacks2023/static/js/main.956e2997.js",
     "static/js/787.28cb0dcd.chunk.js": "/CalHacks2023/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.png": "/CalHacks2023/static/media/logo.5765836aee1925b6258d.png",
     "static/media/logo.svg": "/CalHacks2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CalHacks2023/index.html",
     "main.45943ac2.css.map": "/CalHacks2023/static/css/main.45943ac2.css.map",
-    "main.856b2bff.js.map": "/CalHacks2023/static/js/main.856b2bff.js.map",
+    "main.956e2997.js.map": "/CalHacks2023/static/js/main.956e2997.js.map",
     "787.28cb0dcd.chunk.js.map": "/CalHacks2023/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45943ac2.css",
-    "static/js/main.856b2bff.js"
+    "static/js/main.956e2997.js"
   ]
 }
